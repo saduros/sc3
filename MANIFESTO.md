@@ -6,7 +6,7 @@ We are a small group of aspiring web developers and journalists based in Chicago
 
 Fluency with the web and information technology is a critical, marketable job skill. We teach each other practical tech skills that help us advance professionally.
 
-Citizens rarely have enough understanding of the systems that govern our lives. We use data journalism to learn about and interrogate those systems. 
+We rarely have enough understanding of the systems that govern our lives. Data journalism helps us learn about, interrogate and improve those systems. 
 
 Asking questions about issues, systems, and institutions that affect our community is a form of civic engagement. We explore our world with code, research, design, and storytelling. 
 
@@ -24,7 +24,7 @@ Many real world processes have multiple, intertwined data collection and managem
 
 The demographics of the technology industry does not represent society, which makes it that much harder to create technology that is responsible and humane. We organize for diversity by recruiting outside of the mainstream tech industry and through a gender equal leadership policy. 
 
-Citizens rarely have enough agency over the systems that govern our lives. We use participatory, consensus-based governance to practice democracy.
+People rarely have enough agency over the systems that govern our lives. We use participatory, consensus-based governance to practice democracy.
 
 Consistent face-to-face interaction in a safe space is the best way to collaborate and encourage long term learning. We meet weekly in an accessible location.
 
